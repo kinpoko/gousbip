@@ -1,5 +1,8 @@
 # gousbip
 
+[![Go](https://github.com/kinpoko/gousbip/actions/workflows/go.yml/badge.svg)](https://github.com/kinpoko/gousbip/actions/workflows/go.yml)
+![License](https://img.shields.io/github/license/kinpoko/gousbip?color=blue)
+
 This tool is for listing available USB devices that can be used in the WSL (Windows Subsystem for Linux) and allowing the user to select a device to connect or disconnect.
 
 ## Requirements
